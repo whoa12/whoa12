@@ -2,7 +2,7 @@
 
 🎯 Passionate Java Backend Developer with experience in:
 - ✅ Spring Boot (Monolithic & Microservices)
-- ✅ JWT Authentication, REST APIs, Docker, Spring Security
+- ✅ JWT Authentication, REST APIs, Docker, Spring Security, Resillience4j, Config server, RabbitMQ, API Integration
 - ✅ Databases: MySQL, PostgreSQL, MongoDB
 - ✅ Tools: Git, Maven, Gradle, IntelliJ, Postman
 
@@ -12,6 +12,7 @@
 -  [Hotel Management System(Microservice)](https://github.com/whoa12/Hotel-Management-Microservice-Basic)
 -  [Library Management System](https://github.com/whoa12/Library-Management)
 -  [Aqi-Service](https://github.com/whoa12/AqiService)
+-  [Student management system](https://github.com/whoa12/webapp1)
 
 🧰 I deploy with Docker, test with Postman, and follow clean code & Agile practices.
 
